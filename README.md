@@ -8,4 +8,4 @@ In this project, we developed a Python app to generate the process of analyzing 
 AWS S3, Amazon Rekognition, AWS CLI, AWS SDK, Boto3 and Python..
 
 
-
+![alt text](https://github.com/prayasoncloud/image-label-generator/blob/main/chart-diagram.png)
